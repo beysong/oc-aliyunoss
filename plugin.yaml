@@ -1,0 +1,6 @@
+plugin:
+    name: 'Aliyn OSS'
+    description: 'Aliyn OSS'
+    author: 'Beysong'
+    icon: oc-icon-database
+    homepage: ''
