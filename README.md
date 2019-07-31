@@ -45,7 +45,7 @@ return [
 
   'storage' => [
     'media' => [
-      'disk'   => 'digitalocean',
+      'disk'   => 'bucket',
       'folder' => 'media',
       'path'   => 'https://<your bucket name>.<oss region>.aliyun.com/media'
     ],

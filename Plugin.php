@@ -23,7 +23,7 @@ class Plugin extends PluginBase {
      * {@inheritDoc}
      */
     public function boot() {
-        Storage::extend('do_spaces', function ($app, $config) {
+        Storage::extend('aliyun_oss', function ($app, $config) {
             $client = new S3Client([
 							'credentials' => [
 								'key'    => $config['key'],
