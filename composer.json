@@ -1,0 +1,16 @@
+{
+    "name": "beysong/aliyunoss-plugin",
+    "type": "october-plugin",
+    "description": "Aliyun OSS plugin",
+    "keywords": ["october", "cms", "oss", "plugin"],
+    "authors": [
+        {
+            "name": "Beysong",
+            "email": "beysong@qq.com"
+        }
+    ],
+    "require": {
+        "october/drivers-plugin": "^1.1.3",
+        "composer/installers": "~1.0"
+    }
+}
